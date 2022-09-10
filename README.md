@@ -1,3 +1,6 @@
+[![LICENSE](https://img.shields.io/github/license/chvishwakarma/coffee-shop-frontend)](./LICENSE.md) 
+[![Version](https://img.shields.io/github/package-json/v/chvishwakarma/coffee-shop-frontend?color=blue&filename=./package.json)](./package.json)
+
 # CoffeeShopFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
